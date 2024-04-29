@@ -1,4 +1,4 @@
-"Departamentos":{
+{"Departamentos":{
     "Amazonas": {
         "puerto nari\u00f1o": {
             "proyectos_mas_costosos": [
@@ -14866,4 +14866,5 @@
             "presupuesto_total": 25614379776.48
         }
     }
+}
 }
